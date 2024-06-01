@@ -46,7 +46,7 @@ while True:
 		maxWood += maxNumIncrease
 		maxCarrot += maxNumIncrease
 		maxPumpkin += maxNumIncrease
-		maxPower += maxNumIncrease
+		maxPower += maxNumIncrease - 500
 		maxGold += maxNumIncrease
 		maxCactus += maxNumIncrease
 		maxEgg += maxNumIncrease
